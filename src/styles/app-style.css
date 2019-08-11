@@ -1,0 +1,30 @@
+#toast-container>div {
+  opacity: 1;
+}
+
+
+[dir=rtl]  .layout-container nb-sidebar.left {
+  order: initial !important;
+}
+nb-layout-header.fixed {
+  z-index: 1000 !important;
+}
+
+
+
+
+.mat-form-field-label {
+  height: 30px;
+}
+.mat-form-field-infix {
+  width: initial !important;
+}
+
+
+
+
+
+
+
+
+
